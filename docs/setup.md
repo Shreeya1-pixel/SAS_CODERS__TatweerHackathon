@@ -14,8 +14,8 @@ This is the detailed setup guide. The root `README.md` stays judge-facing and li
 ## Backend
 
 ```bash
-git clone https://github.com/Shreeya1-pixel/safeo_general.git
-cd safeo_general/backend
+git clone https://github.com/Shreeya1-pixel/SAS_CODERS__TatweerHackathon.git
+cd SAS_CODERS__TatweerHackathon/backend
 
 python3.11 -m venv .venv
 source .venv/bin/activate
@@ -43,7 +43,7 @@ http://127.0.0.1:8001/docs
 Open a new terminal:
 
 ```bash
-cd safeo_general/frontend/website
+cd SAS_CODERS__TatweerHackathon/frontend/website
 npm install
 npm run dev
 ```
@@ -59,7 +59,7 @@ http://127.0.0.1:5174
 Point `odoo.conf` at the SafeO addon parent:
 
 ```text
-addons_path = ...,/path/to/safeo_general/frontend/odoo_module
+addons_path = ...,/path/to/SAS_CODERS__TatweerHackathon/frontend/odoo_module
 db_name = securec_db
 ```
 

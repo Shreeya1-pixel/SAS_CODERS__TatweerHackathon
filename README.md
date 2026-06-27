@@ -26,7 +26,7 @@ SafeO is a **free, privacy-preserving AI trust layer** that protects websites, W
 | [`band/`](band/README.md) | **BAND** (optional) | Multi-agent investigation config | — |
 
 ```
-SafeO_lablabai/
+SAS_CODERS__TatweerHackathon/
 ├── backend/                 # BACKEND ML → risk_scorer.py, model_adapter.py, routes/whatsapp.py, universal.py
 ├── frontend/
 │   ├── website/             # FRONTEND → WhatsappDemo.jsx, WebScanner.jsx, …
@@ -311,8 +311,8 @@ WhatsApp / Website / ERP
 ### Step 1 — Clone & backend (required)
 
 ```bash
-git clone https://github.com/Shreeya1-pixel/safeo_general.git
-cd safeo_general/backend
+git clone https://github.com/Shreeya1-pixel/SAS_CODERS__TatweerHackathon.git
+cd SAS_CODERS__TatweerHackathon/backend
 
 python3.11 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
@@ -336,7 +336,7 @@ You should see JSON with component status. API docs: http://127.0.0.1:8001/docs
 Open a **new terminal**:
 
 ```bash
-cd safeo_general/frontend/website
+cd SAS_CODERS__TatweerHackathon/frontend/website
 npm install
 npm run dev
 ```

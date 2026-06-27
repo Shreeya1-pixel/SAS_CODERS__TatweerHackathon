@@ -13,7 +13,7 @@
 ## Folder map (whole repo)
 
 ```
-SafeO_lablabai/
+SAS_CODERS__TatweerHackathon/
 ├── README.md              ← Project overview
 ├── backend/               ← BACKEND (FastAPI :8001)
 ├── frontend/
