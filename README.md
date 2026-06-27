@@ -2,6 +2,8 @@
 
 **Tatweer Hackathon · Challenge 5 · Solutions for Rural Communities**
 
+Drive link for Video- https://drive.google.com/file/d/1DaMX7_OrTKrDD6s_FdwRi78JhS06bmm-/view?usp=drive_link
+
 > *Built for places like **Al Qua'a** — where camel farms, family businesses, schools, and student founders are going digital faster than they can afford enterprise security.*
 
 SafeO is a **free, privacy-preserving AI trust layer** that protects websites, WhatsApp Business messages, school ERP forms, and student startup APIs — **before** attacks enter your systems.
