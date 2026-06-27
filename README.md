@@ -130,15 +130,19 @@ Scan any startup URL in **Scan Website** — if keys are in the HTML, SafeO surf
 
 Many WAF products support **Arabic UI** or generic Arabic NLP. What rural UAE communities need is different:
 
+<div dir="ltr">
+
 | Capability | Typical enterprise WAF | SafeO |
 |------------|------------------------|-------|
-| Arabic UI | Some vendors (e.g. regional WAF providers) | ✅ |
-| **Arabizi** normalization (`3tini`, `5ali`, `aw 1=1`) | ❌ Rare | ✅ Built-in |
-| Mixed Arabic–English evasion | ❌ Often missed | ✅ Script detection + normalization |
-| WhatsApp webhook filtering | ❌ Not standard | ✅ Integrated |
-| Free website scan + **Risk Passport** for owners | ❌ Enterprise sales cycle | ✅ Detects exposed API keys in HTML |
-| UAE Federal Law article citations on BLOCK | ❌ | ✅ 6 articles mapped |
-| School ERP (Odoo) sandbox | ❌ | ✅ Included |
+| Arabic UI | Some regional vendors | Yes |
+| Arabizi normalization (3tini, 5ali, aw 1=1) | Rare | Yes — built-in |
+| Mixed Arabic-English evasion | Often missed | Yes — script detection + normalization |
+| WhatsApp webhook filtering | Not standard | Yes — integrated |
+| Free website scan + Risk Passport | Enterprise sales cycle | Yes — detects exposed API keys in HTML |
+| UAE Federal Law citations on BLOCK | No | Yes — 6 articles mapped |
+| School ERP (Odoo) sandbox | No | Yes — included |
+
+</div>
 
 **Honest positioning:** Arabic-language cybersecurity **products exist** (regional WAFs, enterprise suites). We are **not aware of a free, community-first platform** that combines **Arabic + Arabizi input protection, WhatsApp filtering, website risk passport, and school/SMB ERP hooks** in one tool with **zero OpenAI dependency**. That combination is SafeO's niche.
 
